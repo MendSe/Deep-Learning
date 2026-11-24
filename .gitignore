@@ -1,0 +1,25 @@
+# Datasets
+datasets/
+data/
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# Trained models
+*.pth
+*.pkl
+*.npy
+*.npz
+
+# VS Code
+.vscode/
